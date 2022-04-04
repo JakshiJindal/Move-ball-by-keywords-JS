@@ -1,0 +1,13 @@
+#ball-block {
+  width: 200px;
+  height: 200px;
+  border: 2px solid black;
+  position: relative;
+}
+#ball {
+  border-radius: 50%;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  background-color: brown;
+}
